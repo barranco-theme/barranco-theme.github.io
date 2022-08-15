@@ -1,0 +1,13 @@
+:root {
+    --background: #e8e8e8;
+    --card: #ffffff;
+    --card-critical: #f0c5c3;
+    --card-dark: #121315;
+    --card-neutral: #d6d7d9;
+    --card-info: #98dce6;
+    --card-primary: #f8fffc;
+    --card-success: #a2ddc5;
+    --card-warning: #ffd49a;
+    --primary: #00b6ae;
+    --text: #121315;
+}
