@@ -1,13 +1,13 @@
 :root {
-    --background: #e8e8e8;
+    --background: #f0f0f1;
     --card: #ffffff;
-    --card-critical: #f0c5c3;
-    --card-dark: #121315;
-    --card-neutral: #d6d7d9;
-    --card-info: #98dce6;
-    --card-primary: #f8fffc;
-    --card-success: #a2ddc5;
-    --card-warning: #ffd49a;
+    --card-critical: #e3b8b6;
+    --card-dark: #222222;
+    --card-neutral: #e3e4e6;
+    --card-info: #89cdd7;
+    --card-primary: #00b6ae;
+    --card-success: #93ceb6;
+    --card-warning: #ffb47a;
     --primary: #00b6ae;
-    --text: #121315;
+    --text: #222222;
 }
