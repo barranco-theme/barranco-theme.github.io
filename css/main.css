@@ -1,0 +1,33 @@
+:root {
+    --background: #f0f0f1;
+    --border: #868B90;
+    --border-critical: #e23c2e;
+    --border-dark: #525558;
+    --border-neutral: #b9bec2;
+    --border-primary: #00b6ae;
+    --border-success: #008961;
+    --border-warning: #c29200;
+    --card: #ffffff;
+    --card-critical: #e3b8b6;
+    --card-dark: #222222;
+    --card-info: #89cdd7;
+    --card-neutral: #e3e4e6;
+    --card-primary: #00b6ae;
+    --card-success: #93ceb6;
+    --card-warning: #ffe0a0;
+    --icon: #868B90;
+    --icon-critical: #e23c2e;
+    --icon-dark: #e5e7e9;
+    --icon-neutral: #525558;
+    --icon-primary: #ffffff;
+    --icon-success: #008961;
+    --icon-warning: #c29200;
+    --primary: #00b6ae;
+    --text: #222222;
+    --text-critical: #e23c2e;
+    --text-dark: #e5e7e9;
+    --text-neutral: #525558;
+    --text-primary: #ffffff;
+    --text-success: #008961;
+    --text-warning: #c29200;
+}
